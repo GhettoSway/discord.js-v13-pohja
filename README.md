@@ -2,7 +2,7 @@
 
 Tämä pohja on tehty vapaaseen käyttöön kenelle tahansa. ( [MIT-lisenssi](https://fi.wikipedia.org/wiki/MIT-lisenssi) )
 
-Mikäli sinulla on ongelmia asentamisessa tai missä tahansa asiassa, voit pyytää apua joko laittamalla minulle yksityiestiä discordissa (fobba#9999 ( 376058510150074369 )) tai liittymällä [Suomi Scripting discord kanavalle](https://discord.gg/t34QP4dZzW)
+Mikäli sinulla on ongelmia asentamisessa tai missä tahansa asiassa, voit pyytää apua joko laittamalla minulle yksityiestiä discordissa (fobba#9999) tai liittymällä [Suomi Scripting discord kanavalle](https://discord.gg/t34QP4dZzW)
 
 Mitä ominaisuuksia?
 
