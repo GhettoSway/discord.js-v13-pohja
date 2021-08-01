@@ -19,7 +19,7 @@ Käyttääksesi tätä pohjaa tarvitset [Node.js](https://nodejs.org/en/), joka 
 
 1. Avaa komentokehte ja siirry bottisi kansioon.
 
-2. Aja komento `git clone <linkki>` ja siirry kansioon
+2. Aja komento `git clone https://github.com/GhettoSway/discord.js-v13-pohja` ja siirry kansioon
 
 3. Asenna tarvittavat npm paketit
 
