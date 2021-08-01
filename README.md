@@ -19,16 +19,18 @@ Käyttääksesi tätä pohjaa tarvitset [Node.js](https://nodejs.org/en/), joka 
 
 1. Avaa komentokehte ja siirry bottisi kansioon.
 
-2. Aja komento `git clone https://github.com/GhettoSway/discord.js-v13-pohja` ja siirry kansioon
+2. Aja komento `git clone https://github.com/GhettoSway/discord.js-v13-pohja`
 
-3. Asenna tarvittavat npm paketit
+3. Siirry kansioon johon kloonasit repositoryn
 
-4. Luo `.env` tiedosto ja täytä se `.envExample.txt` mukaisesti
+4. Asenna tarvittavat npm paketit
 
-5. Kopio application id ja käytä tätä linkkiä kutsuaksesi bottisi palvelimelle: https://discord.com/api/oauth2/authorize?client_id=APPLICATION-ID&permissions=8&scope=bot%20applications.commands
+5. Luo `.env` tiedosto ja täytä se `.envExample.txt` mukaisesti
+
+6. Kopio application id ja käytä tätä linkkiä kutsuaksesi bottisi palvelimelle: https://discord.com/api/oauth2/authorize?client_id=APPLICATION-ID&permissions=8&scope=bot%20applications.commands
    ( Korvaa APPLICATION-ID bottisi id:llä )
 
-6. Käynnistä botti ajamalla komento: `node index.js`
+7. Käynnistä botti ajamalla komento: `node index.js`
 
 #
 
