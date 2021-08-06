@@ -15,7 +15,7 @@ Mitä ominaisuuksia?
 
 # Käyttöönotto
 
-Käyttääksesi tätä pohjaa tarvitset [Node.js](https://nodejs.org/en/), joka tulee olla vähintään versio 14.x
+Käyttääksesi tätä pohjaa tarvitset [Node.js](https://nodejs.org/en/), joka tulee olla vähintään versio 16.6
 
 1. Avaa komentokehte ja siirry bottisi kansioon.
 
