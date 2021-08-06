@@ -12,7 +12,7 @@
 		"node": "14.x"
 	},
 	"dependencies": {
-		"discord.js": "^13.0.0-dev.t1627778678.74fc23b",
+		"discord.js": "^13.0.0",
 		"dotenv": "^10.0.0",
 		"glob": "^7.1.7"
 	}
