@@ -1,6 +1,6 @@
 export async function event(client, interaction) {
 	if (interaction.isCommand()) {
-		await interaction.defer();
+		await interaction.deferReply();
 
 		const command = client.commands.get(interaction.commandName);
 		if (!command) return;
